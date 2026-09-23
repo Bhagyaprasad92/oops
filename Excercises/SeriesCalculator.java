@@ -1,4 +1,4 @@
-package Excercises;
+package excercises;
 
 public class SeriesCalculator {
     public int calculateSum(int n) {
