@@ -4,9 +4,9 @@ public class Account {
    private String accountHolder;
    private double balance;
 
-   public Account(String var1, double var2) {
-      this.accountHolder = var1;
-      this.balance = var2;
+   public Account(String accountHolder, double balance) {
+      this.accountHolder = accountHolder;
+      this.balance = balance;
    }
 
    public void displayDetails() {
