@@ -1,7 +1,5 @@
 package excercises;
 
-import java.util.Scanner;
-
 public class Rectangle {
     private int length;
     private int width;
