@@ -1,14 +1,11 @@
 package Polymorphism;
-
+// Run-time polymorphism (method overriding)
 public class Animal {
     public void animalSound() {
         System.out.println("Not Defined.");
     }
 }
 
-/**
- * Cat
- */
 class Cat extends Animal { 
     @Override
     public void animalSound() {
@@ -16,9 +13,6 @@ class Cat extends Animal {
     }
 }
 
-/**
- * dog
- */
 class Dog extends Animal {
     @Override 
     public void animalSound() {
