@@ -1,5 +1,7 @@
 package Exceptions;
 
+import java.util.Scanner;
+
 public class customError {
     static void checkAge(int age) {
         if (age < 18) {
@@ -9,6 +11,10 @@ public class customError {
         }
     }
     public static void main(String[] args) {
-        checkAge(15);
+        int age;
+        Scanner sc = new Scanner(System.in);
+        age = sc.nextInt();
+        sc.close();
+        checkAge(age);
     }
 }
