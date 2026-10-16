@@ -37,53 +37,87 @@ Flutter Developer with 1+ year shipping production apps, a **Top 7 finish among 
 
 ### Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="170" valign="middle">
 
 **Mobile**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="mobile stack" />
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="170" valign="middle">
 
 **Languages**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart&theme=dark" alt="languages" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="170" valign="middle">
 
 **Frontend**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="frontend stack" />
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="170" valign="middle">
 
 **Backend**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark" alt="backend stack" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="170" valign="middle">
 
 **Database**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="database stack" />
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="170" valign="middle">
 
 **Cloud & DevOps**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,firebase&theme=dark" alt="cloud and devops" />
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="170" valign="middle">
 
 **Tools**
+
+</td>
+<td valign="middle">
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,tensorflow,vscode&theme=dark" alt="tools" />
 
 </td>
@@ -147,9 +181,9 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 
 ### Competitive Programming
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-bhagyaprasad-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/bhagyaprasad/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-bhagyaprasad-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/bhagyaprasad)
@@ -159,7 +193,9 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 600+ DSA problems solved across LeetCode, Codeforces, GeeksforGeeks & CodeChef · LeetCode Top SQL 50 badge · HackerRank SQL Certified (Basic & Intermediate)
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td align="center">
 
 <p align="center">
   <a href="https://leetcode.com/u/bhagyaprasad/"><img src="https://leetcard.jacoblin.cool/Bhagyaprasad?theme=dark&ext=heatmap" height="200" /></a>
@@ -168,7 +204,7 @@ Offline-first crash detection via on-device TFLite inference on accelerometer/gy
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td align="center">
 
 <p align="center">
   <a href="https://codeforces.com/profile/bhagyaprasad"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhagyaprasad&theme=dark" height="165" /></a>
